@@ -1,4 +1,4 @@
-#OLT GAYAM
+# OLT GAYAM
 
 ### Sudah
 - Pak Zaenal
@@ -11,11 +11,11 @@
 - Pak Man Gerabah (Koyok e angel) (nek ws pak tris gak perlu)
 - Sigit
 ##### RW 3 (GG mb luluk)
-- Mb.Luluk / P Tri RW 3 ()
+- Mb.Luluk / P Nur RW 3 Melu Mb Luluk
 - P. Didik
 ##### Kenton
 - P. Giman (Effort e akeh)
-- Astuti/Yoga
+- Astuti/Yoga (ngawe kabel Tri Pentol - SD - p.Nur RW 3 - Yoga)
 
 ##### Serentak
 - Mb.Lia
@@ -23,3 +23,8 @@
 - Budiono
 - Putat
   
+
+## Plan Kabel
+- P.tri pentol -> (2C) SD //P. Tri Mlebu OLT
+- SD -> (1C) P.Nur RW 3 // passive 1:4
+- SD -> (1C) Yuli //pasive 1:8 ??
